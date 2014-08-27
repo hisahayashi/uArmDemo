@@ -19,3 +19,4 @@ http://www.openframeworks.cc/
 
 ========
 
+license: MIT
